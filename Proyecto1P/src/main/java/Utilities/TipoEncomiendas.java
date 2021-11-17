@@ -3,18 +3,12 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package com.mycompany.proyecto1p;
+package Utilities;
 
 /**
  *
  * @author Davca
  */
-public class Conductor {
-    private String licencia;
-    private char estado;
-    private int vehiculo;
-    
-    
-    
-    
+public enum TipoEncomiendas {
+    MEDICAMENTOS,DOCUMENTOS,ROPA;
 }
