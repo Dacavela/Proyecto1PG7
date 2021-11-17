@@ -10,5 +10,7 @@ package com.mycompany.proyecto1p;
  * @author Davca
  */
 public class Cliente {
+    private String tarjetaCred;
+    
     
 }

@@ -10,5 +10,8 @@ package com.mycompany.proyecto1p;
  * @author Davca
  */
 public class Conductor {
+    private String licencia;
+    private char estado;
+    private int vehiculo;
     
 }

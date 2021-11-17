@@ -10,5 +10,13 @@ package com.mycompany.proyecto1p;
  * @author Davca
  */
 public class Usuario {
+    protected String cedula;
+    protected String nombres;
+    protected String apellidos;
+    protected int edad;
+    protected String user;
+    protected String password;
+    protected String celular;
+    
     
 }
